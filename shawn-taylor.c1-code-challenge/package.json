@@ -1,0 +1,33 @@
+{
+  "name": "shawn-taylor.c1-code-challenge",
+  "version": "0.0.1",
+  "keywords": [
+    "nodejs",
+    "api",
+    "expressjs",
+    "capitalone"
+  ],
+  "license": "MIT",
+  "description": "Coding challenge for Capital One",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "person": {
+    "name": "Shawn Taylor",
+    "email": "shawn.b.taylor23@gmail.com"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+    "body-parser": "^1.16.1",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "request": "^2.79.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
